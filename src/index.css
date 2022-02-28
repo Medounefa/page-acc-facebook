@@ -11,3 +11,85 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body{
+  overflow-y: hidden;
+}
+.heade{
+  margin-top: 120px;
+}
+.titre{
+  position: relative;
+  right: 124px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
+.r_c{
+  position: relative;
+  right: 105px;
+  font-size: 15px;
+}
+.compte{
+  position: relative;
+  right: 52px;
+  top: 6px;
+  font-size: 12px;
+}
+.card{
+  margin-top: 25px;
+  margin-left: 28px;
+  overflow-y: hidden;
+}
+.card-footer{
+  background: transparent;
+}
+.compte2{
+ width: 200px;
+ height: 230px;
+}
+.card-2{
+  position: relative;
+  left: 280px;
+  bottom: 366px;
+  height: 340px;
+  overflow-y: hidden;
+}
+.card-1{
+  height: 340px;
+  overflow-y: hidden;
+}
+.add_count{
+  color: blue;
+  font-size: 16px;
+  cursor: pointer;
+}
+.signe{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background: blue;
+  color: #fff;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.form{
+  position: relative;
+  left: 480px;
+  top: 23px;
+  box-shadow: 0px 2px 4px black;
+  padding: 10px 8px;
+  border-radius: 5px;
+}
+.mpdO{
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.celebre{
+  font-size: 12px;
+  position: relative;
+  top: 44px;
+  right: 15px;
+}
